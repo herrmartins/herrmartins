@@ -35,17 +35,6 @@ Sou um desenvolvedor fullstack apaixonado por **clean code**, **arquitetura sól
 - 🇩🇪 Alemão — Básico  
 - 🇨🇳 Mandarim — Básico  
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=devrafaelmartins&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaelmartins&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devrafaelmartins&theme=radical)  
-
-</div>
 
 ---
 
