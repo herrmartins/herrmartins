@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x250?text=Rafael+Dias+Martins+PhD+%7C+Full+Stack+Software+Engineer" alt="Rafael Dias Martins Full Stack Developer Banner"/>
-</p>
-
 <h1 align="center">Rafael Dias Martins, Ph.D.</h1>
 <p align="center">
   <strong>Full-Stack Software Engineer • Clean Architecture • High-Performance Systems</strong><br>
