@@ -2,13 +2,13 @@
 
 🎯 **Fullstack Software Developer | Lawyer | Multilingual Professional**
 
-Sou um desenvolvedor fullstack apaixonado por **clean code**, **arquitetura sólida** e soluções escaláveis que resolvem problemas reais. Tenho experiência tanto no **backend** (Grails, Spring Boot, Django) quanto no **frontend** (Next.js, Alpine.js, React, Vue.js), sempre buscando entregar aplicações robustas e interfaces acessíveis.
+Sou um desenvolvedor fullstack apaixonado por **clean code**, **arquitetura sólida** e soluções escaláveis que resolvem problemas reais. Tenho experiência tanto no **backend** (Grails, Spring Boot, Django) quanto no **frontend** (Next.js, Alpine.js, React), sempre buscando entregar aplicações robustas e interfaces acessíveis.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🔧 Desenvolvedor Fullstack na **ICTUS SISTEMAS** (PHP, Laravel, Next.js, Vue.js)  
+- 🔧 Desenvolvedor Fullstack (Java, Spring, Grails, Node.js, Next.js)  
 - 🤖 AI Data Annotator na **DataAnnotation.tech**  
 - 🏛️ Advogado com experiência em contratos, direito digital e proteção de dados  
 - 🌍 Experiência internacional (Brasil, Rússia)  
@@ -21,9 +21,9 @@ Sou um desenvolvedor fullstack apaixonado por **clean code**, **arquitetura sól
 ## 🛠️ Tecnologias & Ferramentas
 
 - **Backend:** Grails (Groovy), Spring Boot (Java), Django (Python)  
-- **Frontend:** Next.js, Alpine.js, React, Vue.js  
+- **Frontend:** Next.js, Alpine.js, React
 - **Banco de Dados:** MySQL, PostgreSQL  
-- **Outros:** PHP, Laravel, REST APIs, AJAX  
+- **Outros:** Node.js, Laravel, REST APIs
 
 ---
 
