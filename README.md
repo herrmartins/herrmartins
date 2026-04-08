@@ -2,7 +2,7 @@
 
 🎯 **Fullstack Software Developer | Lawyer | Multilingual Professional**
 
-Sou um desenvolvedor fullstack apaixonado por **clean code**, **arquitetura sólida** e soluções escaláveis que resolvem problemas reais. Tenho experiência tanto no **backend** (Grails, Spring Boot, Django) quanto no **frontend** (Next.js, Alpine.js, React), sempre buscando entregar aplicações robustas e interfaces acessíveis.
+Sou um desenvolvedor fullstack apaixonado por **clean code**, **arquitetura sólida** e soluções escaláveis que resolvem problemas reais. Tenho experiência tanto no **backend** (Grails, Spring Boot, Django, Express) quanto no **frontend** (Next.js, Alpine.js, React), sempre buscando entregar aplicações robustas e interfaces acessíveis.
 
 ---
 
@@ -23,7 +23,7 @@ Sou um desenvolvedor fullstack apaixonado por **clean code**, **arquitetura sól
 - **Backend:** Grails (Groovy), Spring Boot (Java), Django (Python)  
 - **Frontend:** Next.js, Alpine.js, React
 - **Banco de Dados:** MySQL, PostgreSQL  
-- **Outros:** Node.js, Laravel, REST APIs
+- **Outros:** Node.js, Laravel, REST APIs, MERN Stack
 
 ---
 
@@ -33,7 +33,6 @@ Sou um desenvolvedor fullstack apaixonado por **clean code**, **arquitetura sól
 - 🇬🇧 Inglês — Profissional Completo  
 - 🇪🇸 Espanhol — Intermediário  
 - 🇩🇪 Alemão — Básico  
-- 🇨🇳 Mandarim — Básico  
 
 
 ---
